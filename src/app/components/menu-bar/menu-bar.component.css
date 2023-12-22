@@ -1,0 +1,10 @@
+
+.menu-bar-blog > ul {
+    display: flex;
+    flex-direction: row;
+    
+}
+.menu-bar-blog > ul > li {
+    margin-right: 20px;
+    list-style: none;
+}
