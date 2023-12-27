@@ -10,11 +10,13 @@
 }
 .big-card-title > h1 {
     font-size: 28px;
+    margin-top: 10px;
     
 }
 .big-card-text > p {
     margin-top: 10px;
     color: grey;
+    margin-left: 44px;
 }
 .big-card-img > img {
     width: 100%;
